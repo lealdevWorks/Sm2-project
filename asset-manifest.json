@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.c6076e08.css",
-    "main.js": "/static/js/main.0d21085a.js",
-    "static/js/453.f6d120ff.chunk.js": "/static/js/453.f6d120ff.chunk.js",
-    "static/media/logo.png": "/static/media/logo.2af43e73b22abb9682e8.png",
-    "static/media/tire.png": "/static/media/tire.aaef579a6d283895a25d.png",
-    "static/media/management.png": "/static/media/management.c23355246336f536ef7e.png",
-    "static/media/maintenance.png": "/static/media/maintenance.eec56647ce359cbcfd10.png",
-    "static/media/tire_estoque.png": "/static/media/tire_estoque.22e1fbcb7f569d681591.png",
-    "static/media/inventory.png": "/static/media/inventory.e98d0ecf277d41b682bd.png",
-    "static/media/Logo_SM2.png": "/static/media/Logo_SM2.8cceb838bae03cc862ef.png",
-    "static/media/report.png": "/static/media/report.144db7d3e728938dc46f.png",
-    "static/media/report_button.png": "/static/media/report_button.1ca33c3d8bde69658230.png",
-    "static/media/stats.png": "/static/media/stats.432e65ca59b80605a58f.png",
-    "static/media/config_button.png": "/static/media/config_button.663b6e181b22157de9da.png",
-    "index.html": "/index.html",
-    "main.c6076e08.css.map": "/static/css/main.c6076e08.css.map",
-    "main.0d21085a.js.map": "/static/js/main.0d21085a.js.map",
-    "453.f6d120ff.chunk.js.map": "/static/js/453.f6d120ff.chunk.js.map"
+    "main.css": "/Sm2-project/static/css/main.c6076e08.css",
+    "main.js": "/Sm2-project/static/js/main.a294c8b4.js",
+    "static/js/453.f6d120ff.chunk.js": "/Sm2-project/static/js/453.f6d120ff.chunk.js",
+    "static/media/logo.png": "/Sm2-project/static/media/logo.2af43e73b22abb9682e8.png",
+    "static/media/tire.png": "/Sm2-project/static/media/tire.aaef579a6d283895a25d.png",
+    "static/media/management.png": "/Sm2-project/static/media/management.c23355246336f536ef7e.png",
+    "static/media/maintenance.png": "/Sm2-project/static/media/maintenance.eec56647ce359cbcfd10.png",
+    "static/media/tire_estoque.png": "/Sm2-project/static/media/tire_estoque.22e1fbcb7f569d681591.png",
+    "static/media/inventory.png": "/Sm2-project/static/media/inventory.e98d0ecf277d41b682bd.png",
+    "static/media/Logo_SM2.png": "/Sm2-project/static/media/Logo_SM2.8cceb838bae03cc862ef.png",
+    "static/media/report.png": "/Sm2-project/static/media/report.144db7d3e728938dc46f.png",
+    "static/media/report_button.png": "/Sm2-project/static/media/report_button.1ca33c3d8bde69658230.png",
+    "static/media/stats.png": "/Sm2-project/static/media/stats.432e65ca59b80605a58f.png",
+    "static/media/config_button.png": "/Sm2-project/static/media/config_button.663b6e181b22157de9da.png",
+    "index.html": "/Sm2-project/index.html",
+    "main.c6076e08.css.map": "/Sm2-project/static/css/main.c6076e08.css.map",
+    "main.a294c8b4.js.map": "/Sm2-project/static/js/main.a294c8b4.js.map",
+    "453.f6d120ff.chunk.js.map": "/Sm2-project/static/js/453.f6d120ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6076e08.css",
-    "static/js/main.0d21085a.js"
+    "static/js/main.a294c8b4.js"
   ]
 }
