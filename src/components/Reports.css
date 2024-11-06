@@ -1,0 +1,175 @@
+/* src/components/Reports.css */
+
+.reports-container-custom {
+  max-width: 500px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  padding: 16px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.reports-header-custom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  background-color: #b6af75;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.reports-logo-custom {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.reports-filters-custom label {
+  display: block;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+
+.reports-filters-custom input[type="date"] {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin: 0 5px;
+}
+
+.maintenance-type-options-custom, .tire-status-options-custom {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.maintenance-type-button-custom {
+  padding: 5px 10px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.maintenance-type-button-custom.selected {
+  background-color: #4caf50;
+  color: white;
+}
+
+.tire-status-button-custom {
+  padding: 5px 10px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.tire-status-button-custom.bom {
+  background-color: #4caf50;
+  color: white;
+}
+
+.tire-status-button-custom.ruim {
+  background-color: #f44336;
+  color: white;
+}
+
+.tire-status-button-custom.atencao {
+  background-color: #ffeb3b;
+  color: #333;
+}
+
+.generate-report-button-custom {
+  background-color: #d1b700;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.report-results-custom {
+  background-color: #e0e0e0;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+  font-size: 12px;
+  color: #333;
+}
+
+.result-item-custom {
+  margin-top: 10px;
+}
+
+.reports-footer-custom {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.footer-button-custom {
+  background-color: #2e4a62;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+  border-radius: 20px;
+  font-size: 14px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.footer-button-custom:first-of-type {
+  background-color: #333;
+}
+
+/* src/components/Reports.css */
+
+.tire-status-button-custom {
+    padding: 5px 10px;
+    margin: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .tire-status-button-custom.bom {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .tire-status-button-custom.ruim {
+    background-color: #f44336;
+    color: white;
+  }
+  
+  .tire-status-button-custom.atencao {
+    background-color: #ffeb3b;
+    color: #333;
+  }
+  
+  /* Cor de fundo amarela quando "Atenção" estiver selecionado */
+  .tire-status-button-custom.attention-selected {
+    background-color: #ffeb3b;
+    color: #333;
+    font-weight: bold;
+    border: 1px solid #333;
+  }
+  
+  .reports-header-custom {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #2E4A62;
+    padding: 10px 20px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .sm2-logo-custom {
+    height: 40px;
+    margin-right: 10px;
+  }
